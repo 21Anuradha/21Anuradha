@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TanotiCoder/TanotiCoder/assets/81159555/5356e100-2b97-41ad-952f-01e7ca07608a" alt="profile" />
+  <img src="https://github.com/user-attachments/assets/a6dd191b-79c9-4bba-85d9-693ca8b95d5f" alt="profile" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anuradha Singh</h1>

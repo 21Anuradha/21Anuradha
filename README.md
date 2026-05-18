@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6dd191b-79c9-4bba-85d9-693ca8b95d5f" alt="profile" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Anuradha Singh</h1>
@@ -33,14 +33,10 @@ I am passionate about **clean architecture, smooth UI/UX, and real-time mobile s
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=21Anuradha &show_icons=true&locale=en&layout=compact" alt="21Anuradha " />
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=21Anuradha &show_icons=true&locale=en" alt="21Anuradha " />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21Anuradha &" alt="21Anuradha " />
-</p>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=21Anuradha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1B4F8C&icon_color=2563C4"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Anuradha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1B4F8C"/>
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=21Anuradha&theme=tokyonight&hide_border=true&background=0d1117&stroke=1B4F8C&ring=2563C4&fire=FF6B6B&currStreakLabel=1B4F8C" />
+</div>

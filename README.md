@@ -1,12 +1,12 @@
 <p align="center">
- 
+  <img src="https://github.com/user-attachments/assets/a6dd191b-79c9-4bba-85d9-693ca8b95d5f" alt="profile" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anuradha Singh</h1>
 <h3 align="center">Android Developer | Kotlin & Java | MVVM | Firebase Expert</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HARA&label=Profile%20views&color=0e75b6&style=flat" alt="HARA" />
+  <img src="https://komarev.com/ghpvc/?username=21Anuradha &label=Profile%20views&color=0e75b6&style=flat" alt="21Anuradha " />
 </p>
 
 ---
@@ -37,10 +37,10 @@ I am passionate about **clean architecture, smooth UI/UX, and real-time mobile s
 
 ### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HARA&show_icons=true&locale=en&layout=compact" alt="HARA" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=21Anuradha &show_icons=true&locale=en&layout=compact" alt="21Anuradha " />
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HARA&show_icons=true&locale=en" alt="HARA" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=21Anuradha &show_icons=true&locale=en" alt="21Anuradha " />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HARA&" alt="HARA" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21Anuradha &" alt="21Anuradha " />
 </p>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6dd191b-79c9-4bba-85d9-693ca8b95d5f" alt="profile" />
+ 
 </p>
 
 <h1 align="center">Hi 👋, I'm Anuradha Singh</h1>
